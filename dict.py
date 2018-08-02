@@ -6,3 +6,5 @@ song = {
 	"artist":"Kendrick Lamar",
 	"song_name":"God"
 }
+
+print_dict(song)
