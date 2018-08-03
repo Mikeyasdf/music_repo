@@ -1,6 +1,7 @@
 def print_dict(dict):
 	for key in dict: 
-		print key
+		print dict[key]
+
 		
 song = {
 	"artist":"Kendrick Lamar",
